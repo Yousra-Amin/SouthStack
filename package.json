@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@mlc-ai/web-llm": "^0.2.81",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-scripts": "^5.0.1"
